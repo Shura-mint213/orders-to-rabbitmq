@@ -1,0 +1,15 @@
+D:\programm\Test\Orders\OrdersWebApp\Producer\bin\Debug\net8.0\Producer.deps.json
+D:\programm\Test\Orders\OrdersWebApp\Producer\bin\Debug\net8.0\Producer.dll
+D:\programm\Test\Orders\OrdersWebApp\Producer\bin\Debug\net8.0\Producer.pdb
+D:\programm\Test\Orders\OrdersWebApp\Producer\bin\Debug\net8.0\Shared.dll
+D:\programm\Test\Orders\OrdersWebApp\Producer\bin\Debug\net8.0\Shared.pdb
+D:\programm\Test\Orders\OrdersWebApp\Producer\obj\Debug\net8.0\Producer.csproj.AssemblyReference.cache
+D:\programm\Test\Orders\OrdersWebApp\Producer\obj\Debug\net8.0\Producer.GeneratedMSBuildEditorConfig.editorconfig
+D:\programm\Test\Orders\OrdersWebApp\Producer\obj\Debug\net8.0\Producer.AssemblyInfoInputs.cache
+D:\programm\Test\Orders\OrdersWebApp\Producer\obj\Debug\net8.0\Producer.AssemblyInfo.cs
+D:\programm\Test\Orders\OrdersWebApp\Producer\obj\Debug\net8.0\Producer.csproj.CoreCompileInputs.cache
+D:\programm\Test\Orders\OrdersWebApp\Producer\obj\Debug\net8.0\Producer.csproj.Up2Date
+D:\programm\Test\Orders\OrdersWebApp\Producer\obj\Debug\net8.0\Producer.dll
+D:\programm\Test\Orders\OrdersWebApp\Producer\obj\Debug\net8.0\refint\Producer.dll
+D:\programm\Test\Orders\OrdersWebApp\Producer\obj\Debug\net8.0\Producer.pdb
+D:\programm\Test\Orders\OrdersWebApp\Producer\obj\Debug\net8.0\ref\Producer.dll

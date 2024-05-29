@@ -1,0 +1,11 @@
+D:\programm\Test\Orders\OrdersWebApp\Shared\bin\Debug\net8.0\Shared.deps.json
+D:\programm\Test\Orders\OrdersWebApp\Shared\bin\Debug\net8.0\Shared.dll
+D:\programm\Test\Orders\OrdersWebApp\Shared\bin\Debug\net8.0\Shared.pdb
+D:\programm\Test\Orders\OrdersWebApp\Shared\obj\Debug\net8.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\programm\Test\Orders\OrdersWebApp\Shared\obj\Debug\net8.0\Shared.AssemblyInfoInputs.cache
+D:\programm\Test\Orders\OrdersWebApp\Shared\obj\Debug\net8.0\Shared.AssemblyInfo.cs
+D:\programm\Test\Orders\OrdersWebApp\Shared\obj\Debug\net8.0\Shared.csproj.CoreCompileInputs.cache
+D:\programm\Test\Orders\OrdersWebApp\Shared\obj\Debug\net8.0\Shared.dll
+D:\programm\Test\Orders\OrdersWebApp\Shared\obj\Debug\net8.0\refint\Shared.dll
+D:\programm\Test\Orders\OrdersWebApp\Shared\obj\Debug\net8.0\Shared.pdb
+D:\programm\Test\Orders\OrdersWebApp\Shared\obj\Debug\net8.0\ref\Shared.dll

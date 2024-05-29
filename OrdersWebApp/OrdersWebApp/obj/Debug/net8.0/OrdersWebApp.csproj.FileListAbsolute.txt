@@ -35,3 +35,4 @@ D:\programm\Test\Orders\OrdersWebApp\OrdersWebApp\obj\Debug\net8.0\refint\Orders
 D:\programm\Test\Orders\OrdersWebApp\OrdersWebApp\obj\Debug\net8.0\OrdersWebApp.pdb
 D:\programm\Test\Orders\OrdersWebApp\OrdersWebApp\obj\Debug\net8.0\OrdersWebApp.genruntimeconfig.cache
 D:\programm\Test\Orders\OrdersWebApp\OrdersWebApp\obj\Debug\net8.0\ref\OrdersWebApp.dll
+D:\programm\Test\Orders\OrdersWebApp\OrdersWebApp\obj\Debug\net8.0\OrdersWebApp.sourcelink.json
